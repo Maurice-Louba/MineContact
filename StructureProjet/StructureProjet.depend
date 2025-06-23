@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1750434108 source:c:\mes minis projets\projet structure de donnée\structureprojet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1750433807 source:c:\abdesadek\untitled3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
